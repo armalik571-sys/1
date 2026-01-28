@@ -3,7 +3,7 @@
     {
       "category": "Gold Shine",
       "name": "T Shape",
-      "size": "8mm",
+      "size": "9mm",
       "prices": {
         "retail": "1650",
         "wholesale_isl": "1400",
@@ -841,4 +841,5 @@
       }
     }
   ]
+
 }
