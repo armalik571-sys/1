@@ -1,0 +1,844 @@
+{
+  "items": [
+    {
+      "category": "Gold Shine",
+      "name": "T Shape",
+      "size": "8mm",
+      "prices": {
+        "retail": "1650",
+        "wholesale_isl": "1400",
+        "wholesale_lhr": "1400"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "T Shape",
+      "size": "15mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1550",
+        "wholesale_lhr": "1550"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "T Shape",
+      "size": "25mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "U Shape",
+      "size": "10mm",
+      "prices": {
+        "retail": "1900",
+        "wholesale_isl": "1450",
+        "wholesale_lhr": "1450"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "U Shape",
+      "size": "25mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "U Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3000",
+        "wholesale_isl": "1950",
+        "wholesale_lhr": "1950"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "U Shape",
+      "size": "50mm",
+      "prices": {
+        "retail": "3500",
+        "wholesale_isl": "2300",
+        "wholesale_lhr": "2300"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "L Shape",
+      "size": "20mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "L Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3800",
+        "wholesale_isl": "2400",
+        "wholesale_lhr": "2400"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "Flat Strips",
+      "size": "25mm",
+      "prices": {
+        "retail": "1350",
+        "wholesale_isl": "950",
+        "wholesale_lhr": "950"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "Flat Strips",
+      "size": "50mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1650",
+        "wholesale_lhr": "1650"
+      }
+    },
+    {
+      "category": "Gold Shine",
+      "name": "Curved C-S",
+      "size": "12mm",
+      "prices": {
+        "retail": "2450",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "T Shape",
+      "size": "8mm",
+      "prices": {
+        "retail": "1650",
+        "wholesale_isl": "1400",
+        "wholesale_lhr": "1400"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "T Shape",
+      "size": "15mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1550",
+        "wholesale_lhr": "1550"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "U Shape",
+      "size": "10mm",
+      "prices": {
+        "retail": "1900",
+        "wholesale_isl": "1450",
+        "wholesale_lhr": "1450"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "U Shape",
+      "size": "25mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "U Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3000",
+        "wholesale_isl": "1950",
+        "wholesale_lhr": "1950"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "U Shape",
+      "size": "50mm",
+      "prices": {
+        "retail": "3500",
+        "wholesale_isl": "2300",
+        "wholesale_lhr": "2300"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "L Shape",
+      "size": "20mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "L Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3800",
+        "wholesale_isl": "2400",
+        "wholesale_lhr": "2400"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "Flat Strips",
+      "size": "25mm",
+      "prices": {
+        "retail": "1350",
+        "wholesale_isl": "950",
+        "wholesale_lhr": "950"
+      }
+    },
+    {
+      "category": "Rose Gold Shine",
+      "name": "Flat Strips",
+      "size": "50mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1650",
+        "wholesale_lhr": "1650"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "T Shape",
+      "size": "8mm",
+      "prices": {
+        "retail": "1650",
+        "wholesale_isl": "1400",
+        "wholesale_lhr": "1400"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "T Shape",
+      "size": "15mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1550",
+        "wholesale_lhr": "1550"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "U Shape",
+      "size": "10mm",
+      "prices": {
+        "retail": "1900",
+        "wholesale_isl": "1450",
+        "wholesale_lhr": "1450"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "U Shape",
+      "size": "25mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "U Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3000",
+        "wholesale_isl": "1950",
+        "wholesale_lhr": "1950"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "U Shape",
+      "size": "50mm",
+      "prices": {
+        "retail": "3500",
+        "wholesale_isl": "2300",
+        "wholesale_lhr": "2300"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "L Shape",
+      "size": "20mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "L Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3800",
+        "wholesale_isl": "2400",
+        "wholesale_lhr": "2400"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "Flat Strips",
+      "size": "25mm",
+      "prices": {
+        "retail": "1350",
+        "wholesale_isl": "950",
+        "wholesale_lhr": "950"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "Flat Strips",
+      "size": "50mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1650",
+        "wholesale_lhr": "1650"
+      }
+    },
+    {
+      "category": "Black Shine",
+      "name": "Curved C-S",
+      "size": "12mm",
+      "prices": {
+        "retail": "2450",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "T Shape",
+      "size": "8mm",
+      "prices": {
+        "retail": "1650",
+        "wholesale_isl": "1400",
+        "wholesale_lhr": "1400"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "T Shape",
+      "size": "15mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1550",
+        "wholesale_lhr": "1550"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "U Shape",
+      "size": "10mm",
+      "prices": {
+        "retail": "1900",
+        "wholesale_isl": "1450",
+        "wholesale_lhr": "1450"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "U Shape",
+      "size": "25mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "U Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3000",
+        "wholesale_isl": "1950",
+        "wholesale_lhr": "1950"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "U Shape",
+      "size": "50mm",
+      "prices": {
+        "retail": "3500",
+        "wholesale_isl": "2300",
+        "wholesale_lhr": "2300"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "L Shape",
+      "size": "20mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "L Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3800",
+        "wholesale_isl": "2400",
+        "wholesale_lhr": "2400"
+      }
+    },
+    {
+      "category": "Silver Shine",
+      "name": "Curved C-S",
+      "size": "12mm",
+      "prices": {
+        "retail": "2450",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "T Shape",
+      "size": "8mm",
+      "prices": {
+        "retail": "1650",
+        "wholesale_isl": "1400",
+        "wholesale_lhr": "1400"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "T Shape",
+      "size": "15mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1550",
+        "wholesale_lhr": "1550"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "U Shape",
+      "size": "10mm",
+      "prices": {
+        "retail": "1900",
+        "wholesale_isl": "1450",
+        "wholesale_lhr": "1450"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "U Shape",
+      "size": "25mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "U Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3000",
+        "wholesale_isl": "1950",
+        "wholesale_lhr": "1950"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "U Shape",
+      "size": "50mm",
+      "prices": {
+        "retail": "3500",
+        "wholesale_isl": "2300",
+        "wholesale_lhr": "2300"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "L Shape",
+      "size": "20mm",
+      "prices": {
+        "retail": "2500",
+        "wholesale_isl": "1750",
+        "wholesale_lhr": "1750"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "L Shape",
+      "size": "40mm",
+      "prices": {
+        "retail": "3800",
+        "wholesale_isl": "2400",
+        "wholesale_lhr": "2400"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "Flat Strips",
+      "size": "25mm",
+      "prices": {
+        "retail": "1350",
+        "wholesale_isl": "950",
+        "wholesale_lhr": "950"
+      }
+    },
+    {
+      "category": "Gold Brushed",
+      "name": "Flat Strips",
+      "size": "50mm",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1650",
+        "wholesale_lhr": "1650"
+      }
+    },
+    {
+      "category": "Rose Gold Brushed",
+      "name": "T Shape",
+      "size": "8mm",
+      "prices": {
+        "retail": "1650",
+        "wholesale_isl": "1400",
+        "wholesale_lhr": "1400"
+      }
+    },
+    {
+      "category": "Black Brushed",
+      "name": "T Shape",
+      "size": "8mm",
+      "prices": {
+        "retail": "1650",
+        "wholesale_isl": "1400",
+        "wholesale_lhr": "1400"
+      }
+    },
+    {
+      "category": "PU Stone",
+      "name": "White Space",
+      "size": "2*4'",
+      "prices": {
+        "retail": "3850",
+        "wholesale_isl": "3350",
+        "wholesale_lhr": "2950"
+      }
+    },
+    {
+      "category": "PU Stone",
+      "name": "Golden Space",
+      "size": "2*4'",
+      "prices": {
+        "retail": "3850",
+        "wholesale_isl": "3350",
+        "wholesale_lhr": "2950"
+      }
+    },
+    {
+      "category": "PU Stone",
+      "name": "Charcoal Space",
+      "size": "2*4'",
+      "prices": {
+        "retail": "3850",
+        "wholesale_isl": "3350",
+        "wholesale_lhr": "2950"
+      }
+    },
+    {
+      "category": "PU Stone",
+      "name": "Grey Space",
+      "size": "2*4'",
+      "prices": {
+        "retail": "3850",
+        "wholesale_isl": "3350",
+        "wholesale_lhr": "2950"
+      }
+    },
+    {
+      "category": "PU Stone Long",
+      "name": "Charcoal Space PU Stone Long",
+      "size": "2*9.5'",
+      "prices": {
+        "retail": "15500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "PU Stone Long",
+      "name": "Desert SPACE PU STONE LONG",
+      "size": "2*9.5'",
+      "prices": {
+        "retail": "15500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "PU Stone Long",
+      "name": "GOLDEN SPACE PU STONE LONG",
+      "size": "2*9.5'",
+      "prices": {
+        "retail": "15500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "PU Stone Long",
+      "name": "GREY SPACE PU STONE LONG",
+      "size": "2*9.5'",
+      "prices": {
+        "retail": "15500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "Cladding",
+      "name": "Cladding Golden",
+      "size": "2*4'",
+      "prices": {
+        "retail": "4350",
+        "wholesale_isl": "3550",
+        "wholesale_lhr": "3350"
+      }
+    },
+    {
+      "category": "Cladding",
+      "name": "Cladding Grey",
+      "size": "2*4'",
+      "prices": {
+        "retail": "4350",
+        "wholesale_isl": "3550",
+        "wholesale_lhr": "3350"
+      }
+    },
+    {
+      "category": "Grooves",
+      "name": "Grove Lines Golden",
+      "size": "2*4'",
+      "prices": {
+        "retail": "4350",
+        "wholesale_isl": "3550",
+        "wholesale_lhr": "3350"
+      }
+    },
+    {
+      "category": "Grooves",
+      "name": "Grove Lines Grey",
+      "size": "2*4'",
+      "prices": {
+        "retail": "4350",
+        "wholesale_isl": "3550",
+        "wholesale_lhr": "3350"
+      }
+    },
+    {
+      "category": "Axis",
+      "name": "Axis Golden",
+      "size": "2*4'",
+      "prices": {
+        "retail": "4350",
+        "wholesale_isl": "3550",
+        "wholesale_lhr": "3350"
+      }
+    },
+    {
+      "category": "Axis",
+      "name": "Axis Charcoal",
+      "size": "2*4'",
+      "prices": {
+        "retail": "4350",
+        "wholesale_isl": "3550",
+        "wholesale_lhr": "3350"
+      }
+    },
+    {
+      "category": "Moon",
+      "name": "White Space Moon",
+      "size": "2*4'",
+      "prices": {
+        "retail": "4650",
+        "wholesale_isl": "3650",
+        "wholesale_lhr": "3450"
+      }
+    },
+    {
+      "category": "Feather",
+      "name": "Golden",
+      "size": "8*36",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1650",
+        "wholesale_lhr": "1650"
+      }
+    },
+    {
+      "category": "Feather",
+      "name": "White",
+      "size": "8*36",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1650",
+        "wholesale_lhr": "1650"
+      }
+    },
+    {
+      "category": "Feather",
+      "name": "Charcoal",
+      "size": "8*36",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1650",
+        "wholesale_lhr": "1650"
+      }
+    },
+    {
+      "category": "Mirror",
+      "name": "Copper Glass",
+      "size": "1*1'",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1250",
+        "wholesale_lhr": "1250"
+      }
+    },
+    {
+      "category": "Mirror",
+      "name": "Silver X Copper Glass",
+      "size": "1*1'",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1250",
+        "wholesale_lhr": "1250"
+      }
+    },
+    {
+      "category": "Mirror",
+      "name": "Silver X Glass",
+      "size": "1*1'",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1250",
+        "wholesale_lhr": "1250"
+      }
+    },
+    {
+      "category": "Mirror",
+      "name": "Green Glass",
+      "size": "1*1'",
+      "prices": {
+        "retail": "1950",
+        "wholesale_isl": "1250",
+        "wholesale_lhr": "1250"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "BOOKMATCH DUAL DIVINTY UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "GOLDEN DAWN UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "GOLDEN FOREST UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "LUXURIOUS LUMINANCE UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "MIDNIGHT MAJESTY UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "OCEAN DREAMS UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "SHINY SPLENDOR UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    },
+    {
+      "category": "UV Marble",
+      "name": "STORMY SEAS UV SHEET",
+      "size": "Standard",
+      "prices": {
+        "retail": "14500",
+        "wholesale_isl": "12500",
+        "wholesale_lhr": "12500"
+      }
+    }
+  ]
+}
